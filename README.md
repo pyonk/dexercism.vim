@@ -30,7 +30,9 @@ When you don't provide the path, the current file of the current buffer is submi
 
 ## Requirements
 
-This plugin is using [denops.vim](https://github.com/vim-denops/denops.vim).
+This plugin is using [denops.vim](https://github.com/vim-denops/denops.vim) and requires able to run [Exercism CLI](https://exercism.org/docs/using/solving-exercises/working-locally) locally.
+
+
 
 ## TODO
 - [x] Download a exercise
